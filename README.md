@@ -14,11 +14,12 @@ El equipo concuerda con que no solo es de interés para las escuelas en particul
 
 Mediante las facilidades gratuitas que se ofrecen en _“Kaggle”_, se logró encontrar una base de datos limpia y con elementos que ayudan a nuestro análisis a modo de práctica y de utilidad para el proyecto. La data disponible es un recurso abierto y de simulación que nos ofrece un preámbulo adecuado para obtener los objetivos deseados del proyecto.
 
-¿Qué preguntas quiero responder con este análisis?
-¿Qué factores influyen en las mejores calificaciones de los alumnos?
-¿Qué factores influyen en una baja calificación?
-¿Qué nivel de aprovechamiento es más común?
-¿Cómo podemos mejorar el panorama actual de resultados en estudiantes con calificaciones más bajas?
+> [!NOTE]
+> ¿Qué preguntas quiero responder con este análisis?
+> ¿Qué factores influyen en las mejores calificaciones de los alumnos?
+> ¿Qué factores influyen en una baja calificación?
+> Qué nivel de aprovechamiento es más común?
+> ¿Cómo podemos mejorar el panorama actual de resultados en estudiantes con calificaciones más bajas?
 
 **Factores de rendimiento de los estudiantes**
 El rendimiento académico es un gran tema de interés y preocupación a nivel mundial ya que en esta etapa llega tener un impacto significativo en el desarrollo personal de cada individuo de una sociedad.
@@ -77,10 +78,12 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
 
 
 **Recomendaciones basadas en los resultados obtenidos**
- • Hacer lo posible para tener acceso a internet así como otros recursos estudiantiles
- • Llevar una buena relación con la familia y apoyarse en ella
- • Estudiar al menos 15 horas
+> [!TIP]
+> Hacer lo posible para tener acceso a internet así como otros recursos estudiantiles
+> Llevar una buena relación con la familia y apoyarse en ella
+> Estudiar al menos 15 horas
 
 **Posibles limitaciones del análisis y sugerencias para trabajos futuros**
- • La base  de datos elegida muestra un porcentaje muy pequeño de estudiantes con calificaciones altas lo cual dificulta el análisis y recomendaciones ya que observamos estudiantes en igualdad de recursos y calificaciones menores
- • A futuro se podría buscar una base de datos que incluya escuela de procedencia así como estado/país para obtener un mejor análisis
+> [!CAUTION]
+> La base  de datos elegida muestra un porcentaje muy pequeño de estudiantes con calificaciones altas lo cual dificulta el análisis y recomendaciones ya que observamos estudiantes en igualdad de recursos y calificaciones menores
+> A futuro se podría buscar una base de datos que incluya escuela de procedencia así como estado/país para obtener un mejor análisis
