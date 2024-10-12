@@ -35,6 +35,7 @@ Partiendo de esto al elegir este conjunto de datos, el cual nos proporciona una 
 
 **Descripción de la Base de Datos:**
 La base de datos cuenta con 6607 registros y 20 campos los cuales se describen a continuación:
+
 ![image](https://github.com/user-attachments/assets/eac81be4-f471-4177-a240-e65528f191c1)
 
 **Limpieza de Datos:**
