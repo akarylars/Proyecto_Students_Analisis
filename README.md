@@ -90,7 +90,7 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
 > Estudiar al menos 15 horas
 
 **Posibles limitaciones del análisis y sugerencias para trabajos futuros**
-> [!CAUTION]
+> [!IMPORTANT]
 > La base  de datos elegida muestra un porcentaje muy pequeño de estudiantes con calificaciones altas lo cual dificulta el análisis y recomendaciones ya que observamos estudiantes en igualdad de recursos y calificaciones menores
 > 
 > A futuro se podría buscar una base de datos que incluya escuela de procedencia así como estado/país para obtener un mejor análisis
