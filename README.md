@@ -5,6 +5,7 @@
 **Base de datos elegida:**
 “ student performance factors” / factores de rendimiento estudiantil
 https://www.kaggle.com/datasets/lainguyn123/student-performance-factors
+
 Este conjunto de datos nos ofrece una comprensiva revisión de varios factores sociales y educativos que influyen en los resultados de los alumnos durante la presentación de exámenes;a la vez nos habla de hábitos, asistencia, el nivel de compromiso de los padres y otros aspectos que pueden ayudar a determinar razones para un éxito académico dentro de un plantel o sistema educativo. 
 
 **Justificación**
