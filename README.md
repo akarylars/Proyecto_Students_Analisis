@@ -68,7 +68,9 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
  
  • Software de análisis de datos: Excel
  
- • Principales Visualizaciones: https://public.tableau.com/app/profile/luis.cardenas4701/viz/ProyectoFinal_Tableau_17283596205450/Historia
+ • Principales Visualizaciones: 
+ 
+ https://public.tableau.com/app/profile/luis.cardenas4701/viz/ProyectoFinal_Tableau_17283596205450/Historia
 
 ## Interpretación y Conclusiones
 
