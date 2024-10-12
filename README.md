@@ -72,6 +72,7 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
 ## Interpretación y Conclusiones
 
 **Resultados del Análisis:**
+
  • El promedio de calificación por género no muestra gran diferencia 67.27 para mujeres y 67.23 para hombres 
  
  • El factor escuela privada o pública no es de gran relevancia para una calificación alta o baja
