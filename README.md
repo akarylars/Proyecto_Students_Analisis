@@ -40,7 +40,9 @@ La base de datos cuenta con 6607 registros y 20 campos los cuales se describen a
 **Limpieza de Datos:**
 
 • Identificación y manejo de valores faltantes
+
 • Corrección de errores en los datos 
+
 • Transformaciones necesarias
 
 Descripción: 
@@ -51,6 +53,7 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
 
 **Análisis Descriptivo:**
 • Estadísticas descriptivas (media, mediana, moda, desviación estándar) 
+
 • Distribuciones de variables/campos.
 
 ![image](https://github.com/user-attachments/assets/5e76a63b-582a-48b0-b2e6-fdeb42bc15df)
@@ -61,23 +64,32 @@ Al final de cada fila colocamos la función antes mencionada, con el rango de to
 ## Visualización de Datos
 
  • Herramienta de Visualización: Uso de Tableau para crear visualizaciones interactivas
+ 
  • Software de análisis de datos: Excel
+ 
  • Principales Visualizaciones: https://public.tableau.com/app/profile/luis.cardenas4701/viz/ProyectoFinal_Tableau_17283596205450/Historia
 
 ## Interpretación y Conclusiones
 
 **Resultados del Análisis:**
  • El promedio de calificación por género no muestra gran diferencia 67.27 para mujeres y 67.23 para hombres 
+ 
  • El factor escuela privada o pública no es de gran relevancia para una calificación alta o baja
+ 
  • El acceso a internet es un factor de gran impacto para obtener buena calificación
+ 
  • El apoyo de los padres de medio a alto contribuye positivamente a una mejor calificación
+ 
  • El acceso a recursos estudiantiles de medio a alto contribuye positivamente a una mejor calificación
+ 
  • Los estudiantes que dedicaron más de 15 horas de estudio muestran calificaciones más altas
 
 **Conclusiones:**
 
  • El promedio general de examen para los estudiantes de la base de datos analizada fue de 67.35
+ 
  • Los factores de mayor relevancia observados  para este análisis fueron acceso a internet, acceso a recursos estudiantiles, apoyo de los padres y horas de estudio. La presencia de los recursos mencionados en un nivel alto o medio favorece una mayor calificación y viceversa.
+ 
  • No existe una fórmula mágica o verdad absoluta ya que también se observó una minoría estudiantes con limitaciones o carencias de estos recursos obteniendo buena calificación, claro que la probabilidad de que esto suceda es menor.
 
 
