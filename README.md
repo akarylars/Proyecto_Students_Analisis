@@ -16,9 +16,13 @@ Mediante las facilidades gratuitas que se ofrecen en _“Kaggle”_, se logró e
 
 > [!NOTE]
 > ¿Qué preguntas quiero responder con este análisis?
+> 
 > ¿Qué factores influyen en las mejores calificaciones de los alumnos?
+> 
 > ¿Qué factores influyen en una baja calificación?
+> 
 > Qué nivel de aprovechamiento es más común?
+> 
 > ¿Cómo podemos mejorar el panorama actual de resultados en estudiantes con calificaciones más bajas?
 
 **Factores de rendimiento de los estudiantes**
